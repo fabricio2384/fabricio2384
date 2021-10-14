@@ -17,8 +17,9 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" /></code>
 
 ### Contatos
-<br>
- <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin"/>[https://www.linkedin.com/in/fabricio-santos-20704570/]
+
+[<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin"/>](https://www.linkedin.com/in/fabricio-santos-20704570/)
  
+[<img height="40" src="https://multarte.com.br/logo-do-instagram-png-fundo-transparente/" alt="Linkedin"/>](https://www.linkedin.com/in/fabricio-santos-20704570/)
 
 
