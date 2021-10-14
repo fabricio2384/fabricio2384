@@ -20,7 +20,5 @@
 ### Contatos
 
 [<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin"/>](https://www.linkedin.com/in/fabricio-santos-20704570/)&nbsp;&nbsp;
-[<img height="40" src="https://github.com/fabricio2384/fabricio2384/blob/main/iconfinder-social-media-applications-3instagram-4102579_113804.svg" alt="Instagram"/>](https://www.instagram.com/fabricioaps1/)
-
-
-
+[<img height="40" src="https://github.com/fabricio2384/fabricio2384/blob/main/iconfinder-social-media-applications-3instagram-4102579_113804.svg" alt="Instagram"/>](https://www.instagram.com/fabricioaps1/)&nbsp;&nbsp;
+[<img height="40" src="https://github.com/fabricio2384/fabricio2384/blob/main/image-removebg-preview.png" alt="Lattes"/>](http://lattes.cnpq.br/4083978919936110/)
