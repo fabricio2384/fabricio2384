@@ -9,9 +9,16 @@
 - ⚡ Fun fact: ...
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+<code><img height="40" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png" alt="PyCharm" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" alt="LABView" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" /></code>
+
+### Contatos
+<br>
+ <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin"/>[https://www.linkedin.com/in/fabricio-santos-20704570/]
+ 
 
 
