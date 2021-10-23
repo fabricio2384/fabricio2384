@@ -3,9 +3,9 @@
 - 
 - :computer: **Data Scientist**
 - :books: **I’m currently learning  Python and Data Science, moreover,knowledge is everything** 
-- :microscope: **I'm Bachelor in physicist / UFOP**
-- :scroll: **I'm master degree in Science and Materials Engineering / IFSC/USP**
-- :mortar_board: **I'm Ph.D. degree in applied biomolecular physics / IFSC/USP**
+- :microscope: **Bachelor in physicist / UFOP**
+- :scroll: **Master degree in Science and Materials Engineering / IFSC/USP**
+- :mortar_board: **Ph.D. degree in applied biomolecular physics / IFSC/USP**
 - :microscope: **Postdoctoral researcher / UFMG** 
 - 
 - 
