@@ -1,6 +1,7 @@
 ### Welcome to my Github 👋 I'm Fabricio 🤓 and I'm very pleased to have you here 
 
-- 
+
+
 - :computer: **Data Scientist**
 - :books: **I’m currently learning  Python and Data Science, moreover,knowledge is everything** 
 - :microscope: **Bachelor in physicist / UFOP**
