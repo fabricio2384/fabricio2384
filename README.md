@@ -7,11 +7,7 @@
 - :scroll: **Master degree in Science and Materials Engineering / IFSC/USP**
 - :mortar_board: **Ph.D. degree in applied biomolecular physics / IFSC/USP**
 - :microscope: **Postdoctoral researcher / UFMG** 
-- 
-- 
-- 
-- 
-- 
+
 
 ### Languages and Tools 
 
